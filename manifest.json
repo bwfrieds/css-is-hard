@@ -1,0 +1,7 @@
+{
+  "name": "css-is-hard",
+  "short_name": "css-is-hard",
+  "description": "isolate css problem from rest of app",
+  "start_url": "/",
+  "display": "standalone"
+}

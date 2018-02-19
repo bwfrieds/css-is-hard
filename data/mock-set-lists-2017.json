@@ -1,0 +1,167 @@
+[
+  {
+    "title_name": "set A",
+    "date": "2017-Aug-3",
+    "venue": "Madison Square Garden",
+    "city": "NYC",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "7",
+    "acoustic_plugged": "acoustic",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "set B",
+    "date": "2017-Jul-9",
+    "venue": "Central Park",
+    "city": "Manhattan",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "6",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "Set C",
+    "date": "2017-Dec-1",
+    "venue": "Pepsi Center",
+    "city": "Denver",
+    "outdoor_indoor": "indoor",
+    "band_member_count": "8",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "set D",
+    "date": "2017-Aug-3",
+    "venue": "Madison Square Garden",
+    "city": "NYC",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "7",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "set E",
+    "date": "2017-Jul-9",
+    "venue": "Central Park",
+    "city": "Manhattan",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "6",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "Set F",
+    "date": "2017-Dec-1",
+    "venue": "Pepsi Center",
+    "city": "Denver",
+    "outdoor_indoor": "indoor",
+    "band_member_count": "8",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "click this bad menu --> ",
+    "date": "2017-Aug-3",
+    "venue": "Madison Square Garden",
+    "city": "NYC",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "7",
+    "acoustic_plugged": "acoustic",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "Hilltop Coliseum Southwest January 22, 2018",
+    "date": "2017-Jul-9",
+    "venue": "Central Park",
+    "city": "Manhattan",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "6",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "asdf asdf asdf adsf aasdf asdf adsf af adsf",
+    "date": "2017-Dec-1",
+    "venue": "Pepsi Center",
+    "city": "Denver",
+    "outdoor_indoor": "indoor",
+    "band_member_count": "8",
+    "acoustic_plugged": "acoustic",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "foo foo foo foo bar baz",
+    "date": "2017-Aug-3",
+    "venue": "Madison Square Garden",
+    "city": "NYC",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "7",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "blah blah blah blah blah",
+    "date": "2017-Jul-9",
+    "venue": "Central Park",
+    "city": "Manhattan",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "6",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "click this good menu --> ",
+    "date": "2017-Dec-1",
+    "venue": "Pepsi Center",
+    "city": "Denver",
+    "outdoor_indoor": "indoor",
+    "band_member_count": "8",
+    "acoustic_plugged": "acoustic",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "set M",
+    "date": "2017-Aug-3",
+    "venue": "Madison Square Garden",
+    "city": "NYC",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "7",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "set N",
+    "date": "2017-Jul-9",
+    "venue": "Central Park",
+    "city": "Manhattan",
+    "outdoor_indoor": "outdoor",
+    "band_member_count": "6",
+    "acoustic_plugged": "acoustic",
+    "songs": [],
+    "settings": []
+  },
+  {
+    "title_name": "Set O",
+    "date": "2017-Dec-1",
+    "venue": "Pepsi Center",
+    "city": "Denver",
+    "outdoor_indoor": "indoor",
+    "band_member_count": "8",
+    "acoustic_plugged": "plugged",
+    "songs": [],
+    "settings": []
+  }
+]
