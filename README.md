@@ -15,6 +15,6 @@ $ polymer install
 ## Viewing Your Application
 
 ```
-$ polymer serve --opem
+$ polymer serve --open
 ```
 
