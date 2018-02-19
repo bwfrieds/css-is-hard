@@ -1,6 +1,6 @@
 # \<css-is-hard\>
 
-Isolate css problem from rest of app.  Make the bug reproducible. 
+Isolate css problem from rest of app.  Make the bug reproducible in a minimal project. 
 
 ## Install the Polymer-CLI
 
