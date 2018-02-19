@@ -26,16 +26,16 @@
               <paper-menu-button dynamic-align="false" >
                   <paper-icon-button icon="menu" slot="dropdown-trigger" alt="menu"></paper-icon-button>
                   <paper-listbox slot="dropdown-content">
-                      <paper-item>songs</paper-item>
-                      <paper-item>settings</paper-item>
                       <paper-item>details</paper-item>
+                      <paper-item>settings</paper-item>
+                      <paper-item>delete</paper-item>
                   </paper-listbox>
               </paper-menu-button>
           </paper-item>
       </template>
   </iron-list>
 
-  <iron-ajax url="../../data/mock-set-lists-2017.json" handle-as="json" last-response="{{lists}}" auto></iron-ajax>
+  <iron-ajax url="../../data/mock-lists-2017.json" handle-as="json" last-response="{{lists}}" auto></iron-ajax>
 
   </template>
 
